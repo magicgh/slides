@@ -1,4 +1,4 @@
 # Math
 ## Preview
-* [Bayes’ Theorem](./Bayes’ Theorem.html)
-* [Expected Value and Variance](./Expected Value and Variance.html)
+* [Bayes’ Theorem](./Bayes’%20Theorem.html)
+* [Expected Value and Variance](./Expected%20Value%20and%20Variance.html)
